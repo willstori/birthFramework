@@ -1,6 +1,6 @@
 # Birth Framework
 
-Este é um micro framework desenvolvido por mim para estudo do protocolo HTTP e Arquitetura de Software.
+Este é um micro framework desenvolvido para estudo do protocolo HTTP e Arquitetura de Software.
 
 ## Requisitos
 PHP 8.1+, Composer, MySQL.
