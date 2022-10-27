@@ -1,0 +1,22 @@
+{
+    "name": "willian/birthframework",
+    "description": "Creating a framework PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "Source/",
+            "BirthFramework\\": "System/"
+        }
+    },
+    "authors": [        
+        {
+            "name": "Willian Stori",
+            "email" : "programacao2@lovatel.com.br"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "*",
+        "symfony/cache": "^6.1"
+    }
+}
